@@ -7,12 +7,12 @@ return  a + b;
 
 
 
-function subtract(){
+function subtract(a, b){
   return b - a;
 
 }
 
-subract(a,b);
+
 
 
 
