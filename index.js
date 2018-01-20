@@ -31,13 +31,13 @@ function divide(a, b){
 
 
 
-function inc(n) {
+function inc(a, n) {
   return a+=n;
 
 }
 
 
-function dec(n){
+function dec(a, n){
   return a-=n;
 
 }
