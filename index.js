@@ -8,7 +8,7 @@ return  a + b;
 
 
 function subtract(a, b){
-  return b - a;
+  return a-b;
 
 }
 
@@ -16,11 +16,11 @@ function subtract(a, b){
 
 
 
-function multiply() {
- return  a *= b;
+function multiply(a, b) {
+ return  a * b;
 
 }
-multiply(a,b);
+
 
 
 function divide(){
