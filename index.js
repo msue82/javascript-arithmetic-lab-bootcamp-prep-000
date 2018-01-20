@@ -31,14 +31,14 @@ function divide(a, b){
 
 
 
-function inc(a, n) {
-  return a+=n;
+function inc(n) {
+  return n++;
 
 }
 
 
-function dec(a, n){
-  return a-=n;
+function dec(n){
+  return n--;
 
 }
 
