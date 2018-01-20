@@ -35,13 +35,13 @@ function inc(n) {
   return a+n;
 
 }
-inc(a, b);
+
 
 function dec(n){
   return a-n;
 
 }
-dec();
+
 
 function makeInt(n) {
   return parseInt( n, a);
