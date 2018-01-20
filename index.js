@@ -23,12 +23,12 @@ function multiply(a, b) {
 
 
 
-function divide(){
+function divide(a, b){
   return a / b;
 
 }
 
-divide(a, b);
+
 
 
 function inc(n) {
